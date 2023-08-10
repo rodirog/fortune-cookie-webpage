@@ -3,7 +3,7 @@
 ## 💻 Project
 A responsive and interactive web page recreated from an existing Figma design
 
-- Visit the [project online](https://rodirog.github.io/fortune-cookie-webpage/))
+- Visit the [project online](https://rodirog.github.io/fortune-cookie-webpage/)
 
 ## 🧪 Made using:
 
