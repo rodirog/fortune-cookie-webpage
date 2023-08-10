@@ -1,4 +1,4 @@
-# Fortune cookie game
+# 🥠 Fortune cookie game
 ![ezgif com-video-to-gif](https://github.com/rodirog/fortune-cookie-webpage/assets/101756238/0ae40889-f654-4ff4-ac25-6f254f58aad0)
 
 
